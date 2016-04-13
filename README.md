@@ -3,7 +3,7 @@
 ##	Setting Up a Copy of the Set of ISPD 2013 Contest Benchmarks
 
 ### Commands for a UNIX-like Operating System 
-- git clone git@github.com:eda-globetrotter/ispd2013contest-benchmarks.git
+- git clone git@github.com:benchmark-repo/ispd2013contest-benchmarks.git
 - git lfs track "*.tgz" "*.gz" "*.sdc" "*.spef" "*.v" "*.tar" "*.bz2"
 
 See \cite{Olson2016} regarding using the software utility *Git Large File Storage (LFS)* to manage large files (for the benchmarks) in the benchmark repository. 
