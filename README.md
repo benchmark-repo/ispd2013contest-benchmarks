@@ -17,10 +17,16 @@ See \cite{Olson2016} regarding using the software utility *Git Large File Storag
 
 # Organization of the Repository
 
++ README.md
+	- This file.
++ LICENSE
+	- Copy of MIT license.
++ ispd2013_final.tar.bz2
 + references.md
 	- Contains information for referencing/citing the use of the set
 		of ISPD 2013 contest benchmarks.
 + Final
+	- [Obtained by uncompressing and unarchiving *ispd2013_final.tar.bz2*]
 	- cordic_fast benchmark
 		* .sdc file
 		* .spef file
