@@ -6,6 +6,7 @@
 - git clone git@github.com:eda-globetrotter/ispd2013contest-benchmarks.git
 - git lfs track "*.tgz" "*.gz" "*.sdc" "*.spef" "*.v" "*.tar" "*.bz2"
 
+See \cite{Olson2016} regarding using the software utility *Git Large File Storage (LFS)* to manage large files (for the benchmarks) in the benchmark repository. 
 
 ### Command to Verify the Types of Files Tracked by Git Large File Storage (LFS)
 - git lfs track
