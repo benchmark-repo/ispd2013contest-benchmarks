@@ -5,17 +5,6 @@ This is the software license for this document, which references the
 	benchmark suite used in evaluating submissions for the ISPD 2013
 	contest on "Discrete Gate Sizing and Threshold Voltage Assignment".
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	The MIT License (MIT)
 
 	Copyright (c) <2016> <Zhiyang Ong>
@@ -59,6 +48,8 @@ This is the software license for this document, which references the
 		Volume = {},  
 		Year = {2013}}  
 
+
+## Additional References
 
 	@misc{Ozdal2013c,  
 		Address = {},  
@@ -123,9 +114,9 @@ This is the software license for this document, which references the
 
 \cite{Ozdal2013} [Ozdal2013] refers to the preferred citation of the benchmark suite for the ISPD 2013 Discrete Gate Sizing and Threshold Voltage Assignment Contest.
 
-The original set of benchmarks for the ISPD 2013 Discrete Gate Sizing and Threshold Voltage Assignment Contest includes: [Ozdal2013]; and [Ozdal2013].
+The original set of benchmarks for the ISPD 2013 Discrete Gate Sizing and Threshold Voltage Assignment Contest includes: [Ozdal2013a] and [Ozdal2013b].
 
-The final set of benchmarks used for the ISPD 2013 Discrete Gate Sizing and Threshold Voltage Assignment Contest includes: [Ozdal2013]; and [Ozdal2013].
+The final set of benchmarks used for the ISPD 2013 Discrete Gate Sizing and Threshold Voltage Assignment Contest includes: [Ozdal2013c].
 
 
 
